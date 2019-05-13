@@ -4,7 +4,7 @@ Data was scraped from SQCT website using a Python script to create a CSV. I used
 
 Repository includes the Python file used to scrape SQCT, an R script for plotting the data, and an example dataset and plot generated using both
 
-The python script requries a valid UWO username and password due to this, and also requries a Selenium chrome webdriver.exe to work.
+The python script requries a valid UWO username and password due to this, and also requries a Selenium chrome webdriver.exe to work, which can be obtained from https://sites.google.com/a/chromium.org/chromedriver/downloads.
 
 This project was used as an opportunity to practise data scraping using Python and data vis in R. The ggrepel package used to label data points.
 
