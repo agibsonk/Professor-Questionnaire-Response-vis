@@ -10,3 +10,5 @@ ggrepel package used to label data points.
 Future improvements that could be made include switching over to requests along with BeautifulSoup rather than Selenium, which would require less dependencies.
 
 Note: Large departments such as biology can create cramped labels, and can make the figure look messy
+
+Repository includes the Python file used to scrape SQCT, an R script for plotting the data, and an example dataset and plot generated using both
