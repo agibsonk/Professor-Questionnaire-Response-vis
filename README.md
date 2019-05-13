@@ -7,8 +7,11 @@ The python script requries a valid UWO username and password due to this, and al
 This project was used as an opportunity to practise data scraping using Python and data vis in R.
 ggrepel package used to label data points.
 
-Future improvements that could be made include switching over to requests along with BeautifulSoup rather than Selenium, which would require less dependencies.
+
 
 Note: Large departments such as biology can create cramped labels, and can make the figure look messy
 
+# Files
 Repository includes the Python file used to scrape SQCT, an R script for plotting the data, and an example dataset and plot generated using both
+
+Future improvements that could be made include switching over to requests along with BeautifulSoup rather than Selenium, which would require less dependencies.
