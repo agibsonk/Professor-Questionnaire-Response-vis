@@ -31,7 +31,6 @@ p = ggplot(teacher_file, aes(x = Departments,
   theme_minimal()+
   theme(legend.position="none")+
   geom_text_repel(size = 2.25, point.padding = 0.1, fontface = 2)
-#Plot graph
 
 p + theme(
   plot.title = element_text(face = "bold"),
