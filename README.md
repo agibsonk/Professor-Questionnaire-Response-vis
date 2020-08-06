@@ -4,9 +4,12 @@ Data was scraped from SQCT website using a Python script to create a CSV. I used
 
 Repository includes the Python file used to scrape SQCT, an R script for plotting the data, and an example dataset and plot generated using both
 
-The python script requries a valid UWO username and password due to this, and also requries a Selenium chrome webdriver.exe to work, which can be obtained from https://sites.google.com/a/chromium.org/chromedriver/downloads.
+The python script requries a valid UWO username and password, and also requries a Selenium chrome webdriver.exe to work, which can be obtained from https://sites.google.com/a/chromium.org/chromedriver/downloads.
 
-This project was used as an opportunity to practise data scraping using Python and data vis in R. The ggrepel package used to label data points.
+This project was used as an opportunity to practise data scraping using Python and data visualization in R. The ggrepel package used to label data points.
+
+### An example plot is shown below:
+![example plot](Example Plot.png)
 
 Note: Large departments such as biology can create cramped labels, and can make the figure look messy
 
