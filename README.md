@@ -9,7 +9,7 @@ The python script requries a valid UWO username and password, and also requries 
 This project was used as an opportunity to practise data scraping using Python and data visualization in R. The ggrepel package used to label data points.
 
 ### An example plot is shown below:
-![example plot](Example Plot.png)
+![example plot](https://github.com/agibsonk/Professor-Questionnaire-Response-vis/blob/master/Example%20Plot.png)
 
 Note: Large departments such as biology can create cramped labels, and can make the figure look messy
 
